@@ -1,7 +1,6 @@
 ﻿#################################################################################
 # DL Members V. 1.1                                                             #
 # Before running the script connect to Exchange Online (Connect-ExchangeOnline) #
-# Contact Hamed@ebay.com for questions                                          #
 #################################################################################
 
 $input = Read-Host "Enter DL email address"
